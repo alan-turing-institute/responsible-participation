@@ -30,18 +30,11 @@ The organisers and members of the special interest group are committed to:
 ## :computer: Ways of Working
 
 
-
 ## :arrow_right: Pathways to Contribution
 
 The special interest group has a variety of pathways for contributing, and project members should feel empowered to propose new pathways as well. 
 
 The simplest method of contribution is to simply come along to any project meeting and just observe. However, if you wish to have a more active role in the community, the following examples have varying levels of time commitment:
 
-1. [Curated Bibliography](z[otero.m](https://github.com/alan-turing-institute/responsible-participation/blob/master/zotero.md)d)
+1. [Curated Bibliography](zotero.md)
 2. [Projects](https://github.com/alan-turing-institute/responsible-participation/blob/master/projects/)
-
-
-
-
-
-

@@ -15,5 +15,3 @@ This README file serves as an index for the following content and resources:
 - [Current Projects](/projects/README.md)
 - [Seminar/Workshop Series](https://github.com/alan-turing-institute/responsible-participation/tree/master/seminars)
 - [Zotero Library](/docs/zotero.md)
-
-
