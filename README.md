@@ -1,5 +1,7 @@
 # Facilitating Responsible Participation in Data Science
 
+![](/img/hero.jpeg)
+
 This is the repository for the 'Facilitating Responsible Participation in Data Science' special interest group. 
 
 Please refer to our community guidelines before participating.
