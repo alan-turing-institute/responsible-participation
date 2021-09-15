@@ -1,12 +1,17 @@
 # Facilitating Responsible Participation in Data Science
 
-This is the repository for the 'Facilitating Responsible Participation in Data Science' special interest group.
+This is the repository for the 'Facilitating Responsible Participation in Data Science' special interest group. 
+
+Please refer to our community guidelines before participating.
+
+If you are not a member and would like to be involved, you can [sign-up here](https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-fR6PcyyBV1JuragBENwKPJUM0gwRTBPTjYxT0VMS0xZTk1XWE83QUQ5TyQlQCN0PWcu).
 
 This README file serves as an index for the following content and resources:
 
-- [Meeting Notes]()
-- [Current Projects]()
-- [Seminar/Workshop Series]()
-
+- [About](https://www.turing.ac.uk/research/interest-groups/facilitating-responsible-participation-data-science)
+- [Meeting Notes](https://github.com/alan-turing-institute/responsible-participation/tree/master/meeting-notes)
+- [Current Projects](https://github.com/alan-turing-institute/responsible-participation/tree/master/projects)
+- [Seminar/Workshop Series](https://github.com/alan-turing-institute/responsible-participation/tree/master/seminars)
+- [Zotero Library](https://github.com/alan-turing-institute/responsible-participation/blob/master/zotero.md)
 
 
