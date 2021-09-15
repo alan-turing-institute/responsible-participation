@@ -7,7 +7,7 @@ This folder serves as an index for ongoing and past projects run by our communit
 | Project Name | Point Person  | Project Type | Link |
 | --- | --- | --- |---|
 | What is responsible participation in data science and AI? | Christopher Burr | Blog Post |[Click Here](what-is-responsible-participation.md)|
-| Untitled | Christopher Burr | Article |[Click Here](missing-data-and-ethics.md)|
+| Untitled | Tim Keeling | Article |[Click Here](missing-data-and-ethics.md)|
 | Curated Resources| Interest Group | Resource |[Click Here](../docs/zotero.md)|
 
 ## Completed Projects
