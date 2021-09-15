@@ -5,14 +5,14 @@ This folder serves as an index for ongoing and past projects run by our communit
 ## Ongoing Projects
 
 | Project Name | Point Person  | Project Type | Link |
-| --- | --- | --- | 
+| --- | --- | --- | |
 | What is responsible participation in data science and AI? | Christopher Burr | Blog Post | |
 | Curated Resources| Interest Group | Resource |[Click Here](https://github.com/alan-turing-institute/responsible-participation/blob/master/zotero.md)|
 
 ## Completed Projects
 | Project Name | Point Person  | Project Type | Link |
-| --- | --- | --- | 
-|||
+| --- | --- | --- | |
+||||
 
 
 ### :black_nib: Suggestions
