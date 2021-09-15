@@ -1,4 +1,4 @@
-# (Meeting #2) Facilitating responsible participation in data science 
+# Meeting #2
 
 ###### tags: `SIG`
 

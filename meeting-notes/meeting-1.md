@@ -1,5 +1,4 @@
-(Welcome Meeting) Facilitating responsible participation in data science
-===
+# (Welcome Meeting) Facilitating Responsible Participation in Data Science
 
 ###### tags: `SIG`
 
