@@ -1,4 +1,4 @@
-### :books: Curated Bibliography
+# :books: Curated Bibliography
 
 The group has a shared Zotero library, which has been set-up with the goal of collectively creating a *curated list* of resources for those interested in responsible participation. 
 
