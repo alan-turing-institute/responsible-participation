@@ -6,7 +6,9 @@ Thank you very much for considering to contribute to this repository. :tada:
 
 This special interest group is founded upon a belief and commitment to the value of responsible participation, both in terms of data science practices and also the organisation and practices of the special interest group itself.
 
-In the context of this group, the term 'responsibility' is evoked to reflect an ongoing commitment to **reflective**, **deliberative**, **inclusive**, and **responsive** practices.[^RRI] The following principles outline how these concepts can be put into practice in all of the group's activities.
+In the context of this group, the term 'responsibility' is evoked to reflect an ongoing commitment to **reflective**, **deliberative**, **inclusive**, and **responsive** practices.
+
+Responsible research and innovation (RRI) ([Owen e. al.](https://academic.oup.com/spp/article-abstract/39/6/751/1620724), doi: 10.1093/scipol/scs093) The following principles outline how these concepts can be put into practice in all of the group's activities.
 
 The organisers and members of the special interest group are committed to:
 
@@ -66,6 +68,4 @@ You can also simply comment under [this issue](https://github.com/alan-turing-in
  - Send a pull request with the proposed contributions.
  
  Do you have other ideas for contributions? Contact by emailing [Facilitating Responsible Participation in Data Science mailing group](mailto:facilitatingresponsibleparticipationIG@turing.ac.uk)
-
-[^RRI]: These principles are taken from the work of [@owen2012](https://academic.oup.com/spp/article-abstract/39/6/751/1620724)
 
