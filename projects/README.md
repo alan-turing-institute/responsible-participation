@@ -4,10 +4,10 @@ This folder serves as an index for ongoing and past projects run by our communit
 
 ## Ongoing Projects
 
-| Project Name | Point Person  | Project Type | Link |
+| Project Name | Point Person | Project Type | Link |
 | --- | --- | --- |---|
 | What is responsible participation in data science and AI? | Christopher Burr | Blog Post |[Click Here](what-is-responsible-participation.md)|
-| Untitled | Tim Keeling | Article |[Click Here](missing-data-and-ethics.md)|
+| Missing Data: A Normative Taxonomy | Tim Keeling | Article |[Click Here](missing-data-and-ethics.md)|
 | Curated Resources| Interest Group | Resource |[Click Here](../docs/zotero.md)|
 
 ## Completed Projects
