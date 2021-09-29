@@ -7,7 +7,7 @@ date: 2021-08-18
 # Public Events
 
 ## The Cabaret of Dangerous Ideas
-Thursday 15 April 2021
+#### Thursday 15 April 2021
 
 Watch three of our interest group's members (Mhairi Aitken, Ana Basiri, and Jon Crowroft) discuss their research as part of a comedy stand-up special, hosted by the Susan Morison at the [Cabaret of Dangerous Ideas](https://www.cabaretofdangerousideas.com) 👇
 
