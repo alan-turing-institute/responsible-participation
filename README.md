@@ -13,5 +13,5 @@ This README file serves as an index for the following content and resources:
 - [About](https://www.turing.ac.uk/research/interest-groups/facilitating-responsible-participation-data-science)
 - [Meeting Notes](/meeting-notes/)
 - [Current Projects](/projects/README.md)
-- [Seminar/Workshop Series](https://github.com/alan-turing-institute/responsible-participation/tree/master/seminars)
+- [Events](https://github.com/alan-turing-institute/responsible-participation/tree/master/events)
 - [Zotero Library](/docs/zotero.md)
