@@ -2,15 +2,15 @@
 
 Thank you very much for considering to contribute to this repository! :tada:
 
-## :busts_in_silhouette: Community Practices 
+## :busts_in_silhouette: Community Practices
 
 This special interest group is founded upon a belief and commitment to the value of responsible participation, both in terms of data science practices and also the organisation and practices of the special interest group itself.
 
-In the context of this group, the term 'responsibility' is evoked to reflect an ongoing commitment to **reflective**, **deliberative**, **inclusive**, and **responsive** practices ([Owen et. al. , doi: 10.1093/scipol/scs093](https://academic.oup.com/spp/article-abstract/39/6/751/1620724)). The following principles outline how these concepts can be put into practice in all of the group's activities.
+In the context of this group, the term 'responsibility' is evoked to reflect an ongoing commitment to **reflective**, **deliberative**, **inclusive**, and **responsive** practices ([Owen et. al., doi: 10.1093/scipol/scs093](https://academic.oup.com/spp/article-abstract/39/6/751/1620724)). The following principles outline how these concepts can be put into practice in all of the group's activities.
 
 The organisers and members of the special interest group are committed to:
 
-- **Reflecting on our own ideas and ways of working through open and respectful conversation** 
+- **Reflecting on our own ideas and ways of working through open and respectful conversation**
 - **Building consensus and resolving tensions through ethical deliberation**
 - **Recognising and promoting the inherent value of diverse viewpoints by remaining inclusive and open in all our activities**
 - **Promoting transparency to invite collaboration and being responsive to new opportunities to improve**
@@ -29,7 +29,7 @@ The simplest method of participation is to attend a project meeting, contribute 
 
 If you are able to take a more active role in the community, here are some ways to contribute with varying levels of commitment:
 
-#### 📖 I'm only reading this document and don't want to spend a lot of time to contributing!
+#### 📖 I'm only reading this document and don't want to spend a lot of time to contributing
 
 - Great! Keep reading. If you come across any mistake, please flag them by commenting under [the issue section](https://github.com/alan-turing-institute/responsible-participation/issues/2).
 
@@ -47,9 +47,8 @@ If you are able to take a more active role in the community, here are some ways 
 
 #### :star: Contribute new content
 
- - Open an issue describing your intended contribution. 
- - If you open an issue early on, others can give feedback, address concerns and add any missing information requested by you. 
- - Send a pull request with the proposed contributions.
- 
- Do you have other ideas for contributions? Contact by emailing [Facilitating Responsible Participation in Data Science mailing group](mailto:facilitatingresponsibleparticipationIG@turing.ac.uk)
+- Open an issue describing your intended contribution.
+- If you open an issue early on, others can give feedback, address concerns and add any missing information requested by you.
+- Send a pull request with the proposed contributions.
 
+Do you have other ideas for contributions? Contact by emailing [Facilitating Responsible Participation in Data Science mailing group](mailto:facilitatingresponsibleparticipationIG@turing.ac.uk).
