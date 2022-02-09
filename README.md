@@ -15,3 +15,5 @@ Please refer to our [community guidelines](/docs/CONTRIBUTING.md) before partici
 If you are not a member and would like to be involved, you can [sign-up here](https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-fR6PcyyBV1JuragBENwKPJUM0gwRTBPTjYxT0VMS0xZTk1XWE83QUQ5TyQlQCN0PWcu).
 
 You can find out more information about our group's activities by visiting [our site]().
+
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
