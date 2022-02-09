@@ -4,8 +4,8 @@
 
 | Information | Links |
 | :--- | :--- |
-| **Site** | [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)]()|
-| **Build** | [![Netlify Status](https://api.netlify.com/api/v1/badges/01447c9a-9d12-4b68-b5fa-8f17a5663667/deploy-status)](https://app.netlify.com/sites/turing-commons/deploys)|
+| **Site** | [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://facilitating-responsible-participation.netlify.app)|
+| **Build** | [![Netlify Status](https://api.netlify.com/api/v1/badges/af93757b-416f-4014-bcd1-4513b306b8fc/deploy-status)](https://app.netlify.com/sites/facilitating-responsible-participation/deploys)|
 | **License** | [![CC BY 4.0][cc-by-shield]][cc-by] |
 
 This is the repository for the 'Facilitating Responsible Participation in Data Science' special interest group.
