@@ -1,5 +1,5 @@
 admin/
 .vscode/
 .env
-DS_Store
+.DS_Store
 responsible-participation.code-workspace
