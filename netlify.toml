@@ -1,6 +1,7 @@
 [build]
+base = "docs/"
 publish = "site"
-command = """
+command = ""
 restore_home_cache ".cache" "pip cache" &&
 restore_cwd_cache '.venv' 'python virtualenv' &&
 pip3 install -q poetry &&
