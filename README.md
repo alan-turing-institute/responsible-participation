@@ -1,6 +1,6 @@
 # Facilitating Responsible Participation in Data Science
 
-![](/img/hero.jpeg)
+![](/docs/img/participatory-design.jpeg)
 
 This is the repository for the 'Facilitating Responsible Participation in Data Science' special interest group. 
 
