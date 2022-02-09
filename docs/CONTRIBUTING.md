@@ -38,7 +38,7 @@ If you are able to take a more active role in the community, here are some ways 
 
 ### 📚 Help curate our shared resources
 
-- We are building a collection of journals on [Zotero]([zotero.md](https://www.zotero.org/groups/2746789/facilitating_responsible_participation_in_data_science/library)). If you have some resources that you consider relevant, please check out [this guide](zotero.md) on how to contribute.
+- We are building a collection of journals on [Zotero](https://www.zotero.org/groups/2746789/facilitating_responsible_participation_in_data_science/library). If you have some resources that you consider relevant, please check out [this guide](/resources/zotero.md) on how to contribute.
 - You can also simply comment under [this issue](https://github.com/alan-turing-institute/responsible-participation/issues/3)
 
 ### 🌟 Contribute new content

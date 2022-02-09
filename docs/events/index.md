@@ -7,4 +7,4 @@ Therefore, we run a series of events that are either open to our group membersâ€
 To see information about upcoming events, as well as details about previous events please visit the following pages:
 
 - [Interest Group Events](group.md)
-- [Public Events](public/index.md)
+- [Public Events](public.md)
