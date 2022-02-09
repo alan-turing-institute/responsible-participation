@@ -1,1 +1,5 @@
 python==3.9
+mkdocs-material==8.1.10
+pymdown-extensions==9.1
+mkdocs==1.2.3
+fontawesome-markdown==0.2.6
