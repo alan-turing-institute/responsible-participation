@@ -1,2 +1,5 @@
 admin/
 .vscode/
+.env
+DS_Store
+responsible-participation.code-workspace
