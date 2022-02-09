@@ -1,10 +1,10 @@
-# :books: Curated Bibliography
+# Curated Zotero Library
+The group uses a shared [Zotero](https://zotero.org) library to build, curate, and share resources about responsible participation in data science 📚
 
-The group has a shared Zotero library, which has been set-up with the goal of collectively creating a *curated list* of resources for those interested in responsible participation.
+!!! info
+    You can [view the group library here](https://www.zotero.org/groups/2746789/facilitating_responsible_participation_in_data_science/library).
 
-You can [view the group library here](https://www.zotero.org/groups/2746789/facilitating_responsible_participation_in_data_science/library).
-
-To join the group library and contribute, you will need to request access. Please do this by sending an email with your Zotero username and email to cburr@turing.ac.uk
+To join the group library and contribute, you will need to request access. Please do this by sending an email with your Zotero username and email to [cburr@turing.ac.uk](mailto:cburr@turing.ac.uk)
 
 Please note the following guidelines before adding a resource:
 

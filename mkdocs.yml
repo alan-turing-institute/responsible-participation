@@ -1,0 +1,9 @@
+site_name: Facilitating Responsible Participation in Data Science
+theme:
+  name: material
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
