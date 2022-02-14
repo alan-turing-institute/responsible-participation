@@ -10,7 +10,7 @@ Recordings of the events are made available through Sharepoint after the meeting
 
 | Title | Speaker(s) | Affiliation | Date | Link |
 | --- | --- | --- | --- | --- |
-| TBC    |     |     | 9th March 2022 (4pm) |     |
+| Colouring London Project (Title TBC) | [Polly Hudson](https://www.turing.ac.uk/people/researchers/polly-hudson) | Alan Turing Institute | 9th March 2022 (4pm) |     |
 | TBC    |     |     | 13th April 2022 (4pm)    |     |
 | TBC    |     |     | 11th May 2022 (4pm)    |     |
 | TBC    |     |     | 8th June 2022 (4pm)    |     |
@@ -28,4 +28,4 @@ Recordings of the events are made available through Sharepoint after the meeting
 | Title | Speaker(s) | Affiliation | Date | Link |
 | --- | --- | --- | --- | --- |
 | Contextualising Research Collaboration  | Malvika Sharan and Georgia Aitkenhead | Alan Turing Institute | 24th November 2021  |  |
-| Trustworthy National Digital Identity Systems—Two Ethical Case Studies | Jon Crowcroft | University of Cambridge/Alan Turing Institute | 9th February 2022 | |
+| Trustworthy National Digital Identity Systems—Two Ethical Case Studies | [Jon Crowcroft](https://www.turing.ac.uk/people/researchers/jon-crowcroft) | University of Cambridge/Alan Turing Institute | 9th February 2022 | [Sharepoint Post and Recording](https://thealanturininstitute.sharepoint.com/sites/facilitatingresponsibleparticipationIG/SitePages/Trustworthy-Digital-Identity.aspx) |
