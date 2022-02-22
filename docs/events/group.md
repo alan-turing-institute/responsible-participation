@@ -27,5 +27,5 @@ Recordings of the events are made available through Sharepoint after the meeting
 
 | Title | Speaker(s) | Affiliation | Date | Link |
 | --- | --- | --- | --- | --- |
-| Contextualising Research Collaboration  | Malvika Sharan and Georgia Aitkenhead | Alan Turing Institute | 24th November 2021  |  |
+| Contextualising Research Collaboration  | [Malvika Sharan](https://www.turing.ac.uk/people/researchers/malvika-sharan) and [Georgia Aitkenhead](https://www.turing.ac.uk/people/researchers/georgia-aitkenhead) | Alan Turing Institute | 24th November 2021  | [Slides on Zenodo (DOI 10.5281/zenodo.5724332)](https://zenodo.org/record/5724333) |
 | Trustworthy National Digital Identity Systems—Two Ethical Case Studies | [Jon Crowcroft](https://www.turing.ac.uk/people/researchers/jon-crowcroft) | University of Cambridge/Alan Turing Institute | 9th February 2022 | [Sharepoint Post and Recording](https://thealanturininstitute.sharepoint.com/sites/facilitatingresponsibleparticipationIG/SitePages/Trustworthy-Digital-Identity.aspx) |
