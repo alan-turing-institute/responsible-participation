@@ -32,7 +32,3 @@ The presentation also introduced a worksheet that has been designed by Malvika a
 The worksheet has been uploaded to [Google Drive](https://docs.google.com/presentation/d/1a1eP5d571HHWujH6VN7Ufcp4iQJeYO-Hry4UvE2k-dQ/edit?usp=sharing) for access.
 
 SIG members were asked to take a look at the worksheet, use it in their own research, and then help Malvika and Georgia develop this excellent tool further. 
-
-
-
-

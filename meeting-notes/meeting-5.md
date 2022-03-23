@@ -41,5 +41,3 @@
 ### 2) Collaborative Writing Projects
 
 ### 3) Seminar Series
-
-
