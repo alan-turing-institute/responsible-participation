@@ -9,10 +9,10 @@ Recordings of the events are made available through Sharepoint after the meeting
 ## Upcoming Events
 
 | Title | Speaker(s) | Affiliation | Date |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | Turing Commons—Responsible Research, Innovation, and Engagament in Data Science and AI | [Christopher Burr](https://www.turing.ac.uk/people/researchers/christopher-burr) | Alan Turing Institute | 13th April 2022 (4pm) |
-| TBC    |     |     | 11th May 2022 (4pm)    | 
-| TBC    |     |     | 8th June 2022 (4pm)    |
+| TBC    |     |     | 11th May 2022 (4pm) | 
+| TBC    |     |     | 8th June 2022 (4pm) |
 
 !!! question
     Do you want to present at one of our group's meeting? If so, please feel free to [get in touch](mailto:cburr@turing.ac.uk).
