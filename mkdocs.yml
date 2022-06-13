@@ -36,7 +36,8 @@ copyright: Copyright &copy; 2022 Interest Groups, Alan Turing Institute
 theme:
   name: null
   custom_dir: !ENV [THEME_DIR, "material"]
-
+  features:
+    - content.tooltips
   # Static files
   static_templates:
     - 404.html
