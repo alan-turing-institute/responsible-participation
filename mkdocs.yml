@@ -166,7 +166,8 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Contribution: CONTRIBUTING.md
+  - About: about.md
+  - Contributing: CONTRIBUTING.md
   - Events: 
     - About: events/index.md
     - Interest Group: events/group.md
