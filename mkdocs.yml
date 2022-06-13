@@ -167,10 +167,12 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Contribution: CONTRIBUTING.md
-  - Events: events/index.md
+  - Events: 
+    - About: events/index.md
     - Interest Group: events/group.md
     - Public: events/public.md
-  - Resources: resources/index.md
+  - Resources: 
+    - About: resources/index.md
     - Case Studies: resources/case-studies.md
     - Zotero: resources/zotero.md
     - Turing Commons: resources/turing-commons.md
