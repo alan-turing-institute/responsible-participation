@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Community Practices and Pathways to Contribution
 
 Thank you very much for considering to contribute to this group! 🎉
